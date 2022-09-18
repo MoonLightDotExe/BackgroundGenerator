@@ -1,0 +1,11 @@
+body{
+	text-align: center;
+	font: "Times New Roman";
+	font-size: 1.75em;
+	background: linear-gradient(to right , #ff0000 , #37ff00);
+}
+h1{
+	color: rgba(0,0,0,0.7);
+	letter-spacing: 10px;
+	word-spacing: 80px;
+}
